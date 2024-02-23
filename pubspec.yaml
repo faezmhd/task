@@ -41,6 +41,11 @@ dependencies:
   convex_bottom_bar: ^3.2.0
   neopop: ^1.0.2
   animated_text_kit: ^4.2.2
+  geolocator: ^10.1.0
+  http: ^1.2.0
+  carousel_slider: ^4.2.1
+  provider: ^6.1.1
+  firebase_auth: ^4.17.4
 
 dev_dependencies:
   flutter_test:
